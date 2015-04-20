@@ -16,7 +16,7 @@
 				<tr style="height:50%;text-align:center; font-size:80px; color:#FFFFFF;">
 				<td>Add a Game</td>
 				<td bgColor="#008B8B"  style="font-size:20px; text-align:bottom">
-						<table style="margin-top:350px;">
+						<table style="position:absolute; top:40%;vertical-align:center; margin-left:150px;">
 							<tr>
 								<td>Game Number:</td>
 								<td><input type="text" name="pno" /></td>
