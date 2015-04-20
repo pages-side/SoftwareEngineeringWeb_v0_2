@@ -21,9 +21,6 @@
 								<td>Game Number:</td>
 								<td><input type="text" name="pno" /></td>
 							</tr>
-
-
-
 							<tr>
 								<td>Game Name:</td>
 								<td><input type="text" name="name" /></td>
@@ -35,12 +32,10 @@
 							</tr>
 							<tr>
 								<td>&nbsp;</td>
-								<td style="width:100%; float:right;"><input type="submit" />
+								<td style="width:100%; float:right;"><input type="submit" /><input type="button" value="Cancel" onclick="document.getElementById('requester').value='landingpage''"/>
+								<td>&nbsp;</td>
 							</tr>
 						</table>
-					</td>
-				
-				</tr>
 				<tr style="height:50%">
 					<td width="50%" bgcolor="#008B8B">
 						<table>
