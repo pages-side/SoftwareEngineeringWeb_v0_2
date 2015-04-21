@@ -48,8 +48,8 @@ here
 						<table>
 							<tr>
 								<td>Logged in as <%=request.getSession().getAttribute("USER")%></td>
-								<td>Menu1</td>
-								<td>Menu2</td>
+								<td><a href="addGame.jsp">Games</a></td>
+								<td><a href="addEmployee.jsp">Employee</a></td>
 								<td>Menu3</td>
 								<td>Menu4</td>
 							</tr>
